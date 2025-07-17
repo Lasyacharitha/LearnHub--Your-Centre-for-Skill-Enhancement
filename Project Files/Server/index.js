@@ -11,7 +11,7 @@ dotenv.config()
 //////connection of DB/////////
 DBConnection()
 
-const PORT = 8000;
+const PORT = 8002;
 
 
 //////middleware/////////
